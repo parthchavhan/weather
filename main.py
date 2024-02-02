@@ -28,7 +28,7 @@ def check_weather():
     get_weather(api_key, city)
 
 
-api_key = 'da449304e554433bbb5aa7c66df986ce'
+api_key = tapi
 
 app = tk.Tk()
 app.title("Weather Checker")
